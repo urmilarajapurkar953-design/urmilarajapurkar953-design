@@ -26,7 +26,7 @@ I believe in learning by doing, staying consistent, and continuously improving w
 </p>
 
 <p align="center">
-  <b>+ REST APIs</b>
+  
 </p>
 
 ---
