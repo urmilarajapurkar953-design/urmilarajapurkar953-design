@@ -32,12 +32,12 @@ I believe in learning by doing, staying consistent, and continuously improving w
 ---
 ### 🚀 Featured Projects
 
-<table align="center" width="90%">
+<table align="center" width="90%" cellspacing="25" style="border-collapse: separate;">
   <tr>
     <!-- Project 1 -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border:none;">
       <a href="https://urmilarajapurkar953-design.github.io/University-Website/">
-        <img src="https://github.com/urmilarajapurkar953-design/University-Website/blob/2ab38396e2f1645cfc8270ff27b086e709d6a44a/University-website.png?raw=true" width="90%" />
+        <img src="https://github.com/urmilarajapurkar953-design/University-Website/blob/2ab38396e2f1645cfc8270ff27b086e709d6a44a/University-website.png?raw=true" width="95%" style="border-radius:12px;" />
       </a>
       <br><br>
       <b>University Website</b>
@@ -51,9 +51,9 @@ I believe in learning by doing, staying consistent, and continuously improving w
     </td>
 
 <!-- Project 2 -->
-<td align="center" width="50%">
+<td align="center" width="50%" style="border:none;">
   <a href="https://software-website-gray.vercel.app/">
-    <img src="https://raw.githubusercontent.com/urmilarajapurkar953-design/Software-website/6a9bd4f7d4fab00d3ada528c1febf60af9859558/Software-website.png" width="90%" />
+    <img src="https://raw.githubusercontent.com/urmilarajapurkar953-design/Software-website/6a9bd4f7d4fab00d3ada528c1febf60af9859558/Software-website.png" width="400" style="border-radius:12px;" />
   </a>
   <br><br>
   <b>VirtualR</b>
@@ -69,9 +69,9 @@ I believe in learning by doing, staying consistent, and continuously improving w
 
   <tr>
     <!-- Project 3 -->
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border:none;">
       <a href="https://animated-saas-web-application.netlify.app/">
-        <img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/blob/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a/Animated-saas-web.png?raw=true" width="90%" />
+        <img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/blob/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a/Animated-saas-web.png?raw=true" width="95%" style="border-radius:12px;" />
       </a>
       <br><br>
       <b>Animated SaaS Web App</b>
@@ -84,6 +84,8 @@ I believe in learning by doing, staying consistent, and continuously improving w
       </a>
     </td>
 
+    <!-- Empty space (future project) -->
+    <td style="border:none;"></td>
   </tr>
 </table>
 ---
