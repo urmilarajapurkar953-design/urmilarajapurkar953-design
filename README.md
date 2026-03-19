@@ -33,26 +33,65 @@ I believe in learning by doing, staying consistent, and continuously improving w
 
 ### 🚀 Featured Projects
 
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="50%">
+      <img src="https://github.com/urmilarajapurkar953-design/University-Website/commit/2ab38396e2f1645cfc8270ff27b086e709d6a44a" width="100%" />
+      <br><br>
+      <b>🎓 University Website</b>
+      <br>
+      Multi-page responsive website with dynamic routing and contact form integration
+      <br><br>
+      <a href="https://urmilarajapurkar953-design.github.io/University-Website/">
+        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/urmilarajapurkar953-design/University-Website">
+        <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+
+    <!-- Project 2 -->
+    <td align="center" width="50%">
+      <img src="https://github.com/urmilarajapurkar953-design/Software-website/commit/6a9bd4f7d4fab00d3ada528c1febf60af9859558" width="100%" />
+      <br><br>
+      <b>💼 VirtualR – SaaS Landing Page</b>
+      <br>
+      Responsive SaaS landing page with reusable components and modern UI
+      <br><br>
+      <a href="https://software-website-gray.vercel.app/">
+        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/urmilarajapurkar953-design/Software-website">
+        <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
 
-🎓 <b>University Website</b><br>
-Multi-page responsive website with dynamic routing and contact form integration<br>
-💻 Code: [View Repository](https://github.com/urmilarajapurkar953-design/University-Website)  
-🌐 Live: [Visit Website](https://urmilarajapurkar953-design.github.io/University-Website/)
+<!-- Project 3 -->
+<img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/commit/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a" width="60%" />
 
 <br><br>
 
-💼 <b>VirtualR – SaaS Landing Page</b><br>
-Responsive SaaS landing page with reusable components and modern UI<br>
-💻 Code: [View Repository](https://github.com/urmilarajapurkar953-design/Software-website)  
-🌐 Live: [Visit Website](https://software-website-gray.vercel.app/)
+<b>✨ Animated SaaS Web App</b>
+<br>
+High-performance web app with advanced animations and interactive UI
 
 <br><br>
 
-✨ <b>Animated SaaS Web App</b><br>
-High-performance web app with advanced animations and interactive UI<br>
-💻 Code: [View Repository](https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application)  
-🌐 Live: [Visit Website](https://animated-saas-web-application.netlify.app/)
+<a href="https://animated-saas-web-application.netlify.app/">
+  <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application">
+  <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
