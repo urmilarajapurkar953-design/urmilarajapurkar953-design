@@ -84,8 +84,6 @@ I believe in learning by doing, staying consistent, and continuously improving w
       </a>
     </td>
 
-    <!-- Empty space (future project) -->
-    <td style="border:none;"></td>
   </tr>
 </table>
 ---
