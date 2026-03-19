@@ -37,33 +37,33 @@ I believe in learning by doing, staying consistent, and continuously improving w
   <tr>
     <!-- Project 1 -->
     <td align="center" width="50%">
-      <img src="https://github.com/urmilarajapurkar953-design/University-Website/commit/2ab38396e2f1645cfc8270ff27b086e709d6a44a" width="100%" />
+      <a href="https://urmilarajapurkar953-design.github.io/University-Website/">
+        <img src="https://github.com/urmilarajapurkar953-design/University-Website/blob/2ab38396e2f1645cfc8270ff27b086e709d6a44a/University-website.png?raw=true" width="250" height="250" style="object-fit:cover;" />
+      </a>
       <br><br>
-      <b>🎓 University Website</b>
-      <br>
-      Multi-page responsive website with dynamic routing and contact form integration
+      <b>University Website</b>
       <br><br>
       <a href="https://urmilarajapurkar953-design.github.io/University-Website/">
-        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Live-Website-22c55e?style=for-the-badge" />
       </a>
       <a href="https://github.com/urmilarajapurkar953-design/University-Website">
-        <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github" />
       </a>
     </td>
 
     <!-- Project 2 -->
     <td align="center" width="50%">
-      <img src="https://github.com/urmilarajapurkar953-design/Software-website/commit/6a9bd4f7d4fab00d3ada528c1febf60af9859558" width="100%" />
+      <a href="https://software-website-gray.vercel.app/">
+        <img src="https://github.com/urmilarajapurkar953-design/Software-website/blob/6a9bd4f7d4fab00d3ada528c1febf60af9859558/Software-website.png?raw=true" width="250" height="250" style="object-fit:cover;" />
+      </a>
       <br><br>
-      <b>💼 VirtualR – SaaS Landing Page</b>
-      <br>
-      Responsive SaaS landing page with reusable components and modern UI
+      <b>VirtualR</b>
       <br><br>
       <a href="https://software-website-gray.vercel.app/">
-        <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Live-Website-22c55e?style=for-the-badge" />
       </a>
       <a href="https://github.com/urmilarajapurkar953-design/Software-website">
-        <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github" />
       </a>
     </td>
   </tr>
@@ -72,26 +72,18 @@ I believe in learning by doing, staying consistent, and continuously improving w
 <br>
 
 <p align="center">
-
-<!-- Project 3 -->
-<img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/commit/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a" width="60%" />
-
-<br><br>
-
-<b>✨ Animated SaaS Web App</b>
-<br>
-High-performance web app with advanced animations and interactive UI
-
-<br><br>
-
-<a href="https://animated-saas-web-application.netlify.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application">
-  <img src="https://img.shields.io/badge/View-Code-000000?style=for-the-badge&logo=github" />
-</a>
-
+  <a href="https://animated-saas-web-application.netlify.app/">
+    <img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/blob/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a/Animated-saas-web.png?raw=true" width="250" height="250" style="object-fit:cover;" />
+  </a>
+  <br><br>
+  <b>Animated SaaS Web App</b>
+  <br><br>
+  <a href="https://animated-saas-web-application.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Website-22c55e?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application">
+    <img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
