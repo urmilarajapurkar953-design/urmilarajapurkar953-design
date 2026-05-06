@@ -85,6 +85,23 @@ I believe in learning by doing, staying consistent, and continuously improving w
     </td>
 
   </tr>
+  <tr>
+  <!-- Project 4 -->
+  <td align="center" width="50%" style="border:none;">
+    <a href="https://ai-resume-builder-fronted-yvgr.onrender.com/">
+      <img src="https://raw.githubusercontent.com/urmilarajapurkar953-design/ai-resume-builder/main/AI-Resume-Builder.png" width="95%" style="border-radius:12px;" />
+    </a>
+    <br><br>
+    <b>AI Resume Builder</b>
+    <br><br>
+    <a href="https://ai-resume-builder-fronted-yvgr.onrender.com/">
+      <img src="https://img.shields.io/badge/Live-Demo-8b5cf6?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/urmilarajapurkar953-design/ai-resume-builder">
+      <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github" />
+    </a>
+  </td>
+</tr>
 </table>
 ---
 
