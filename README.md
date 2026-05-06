@@ -85,7 +85,7 @@ I believe in learning by doing, staying consistent, and continuously improving w
     </td>
 
   </tr>
-  <tr>
+  
   <!-- Project 4 -->
   <td align="center" width="50%" style="border:none;">
     <a href="https://ai-resume-builder-fronted-yvgr.onrender.com/">
@@ -101,7 +101,7 @@ I believe in learning by doing, staying consistent, and continuously improving w
       <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github" />
     </a>
   </td>
-</tr>
+
 </table>
 ---
 
