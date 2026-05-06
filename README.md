@@ -67,25 +67,23 @@ I believe in learning by doing, staying consistent, and continuously improving w
 </td>
 </tr>
 
-  <tr>
-    <!-- Project 3 -->
-    <td align="center" width="50%" style="border:none;">
-      <a href="https://animated-saas-web-application.netlify.app/">
-        <img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/blob/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a/Animated-saas-web.png?raw=true" width="95%" style="border-radius:12px;" />
-      </a>
-      <br><br>
-      <b>Animated SaaS Web App</b>
-      <br><br>
-      <a href="https://animated-saas-web-application.netlify.app/">
-        <img src="https://img.shields.io/badge/Live-Demo-8b5cf6?style=for-the-badge" />
-      </a>
-      <a href="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application">
-        <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github" />
-      </a>
-    </td>
+ <tr>
+  <!-- Project 3 -->
+  <td align="center" width="50%" style="border:none;">
+    <a href="https://animated-saas-web-application.netlify.app/">
+      <img src="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application/blob/ee0dd3a8788e27e8ac5e94f7becfe0d61f4cd77a/Animated-saas-web.png?raw=true" width="95%" style="border-radius:12px;" />
+    </a>
+    <br><br>
+    <b>Animated SaaS Web App</b>
+    <br><br>
+    <a href="https://animated-saas-web-application.netlify.app/">
+      <img src="https://img.shields.io/badge/Live-Demo-8b5cf6?style=for-the-badge" />
+    </a>
+    <a href="https://github.com/urmilarajapurkar953-design/Animated-SaaS-Web-Application">
+      <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github" />
+    </a>
+  </td>
 
-  </tr>
-  
   <!-- Project 4 -->
   <td align="center" width="50%" style="border:none;">
     <a href="https://ai-resume-builder-fronted-yvgr.onrender.com/">
@@ -101,6 +99,7 @@ I believe in learning by doing, staying consistent, and continuously improving w
       <img src="https://img.shields.io/badge/Source-Code-000000?style=for-the-badge&logo=github" />
     </a>
   </td>
+</tr>
 
 </table>
 ---
