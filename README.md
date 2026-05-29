@@ -107,8 +107,15 @@ I believe in learning by doing, staying consistent, and continuously improving w
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urmilarajapurkar953-design&show_icons=true&theme=tokyonight&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmilarajapurkar953-design&layout=compact&theme=tokyonight&border_radius=10" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=urmilarajapurkar953-design&show_icons=true&theme=tokyonight&border_radius=10"
+    height="150"
+  >
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=urmilarajapurkar953-design&layout=compact&theme=tokyonight&border_radius=10"
+    height="150"
+  >
 </p>
 
 ---
